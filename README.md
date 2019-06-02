@@ -6,5 +6,5 @@ This Python algorithm is used for preparation of text corpus for machine learnin
 
 ## This Python algorithm make a step further in the preparation of text corpus for machine learning. Only necessary attributes are used. As a result the original csv file is extended with labels which mark different business categories of the ducuments being listed.
 
-input file for analysis: export_htmlcontent_04162019_en.csv
+input file for analysis: export_htmlcontent_04162019_en.csv </br>
 output file of this Python algorithm: corpus_clusters_en.csv
